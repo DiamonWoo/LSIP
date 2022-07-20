@@ -10,7 +10,7 @@
 
 　　集成网页按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
-　　大规模集成网页(LSIP)利用更快更强的网络，把数据库网页化，是 web 3.0 的一种可能形式。本项目以LSIP为基础，讨论‘集成网页’涉及的技术与应用。
+　　大规模集成网页(LSIP)利用更快更强的网络，把数据库网页化，是 [web 3.0](https://cn.bing.com/search?q=web+3.0) 的一种可能形式。本项目以LSIP为基础，讨论‘集成网页’涉及的技术与应用。
 
 
 LSIP的适用领域
@@ -20,9 +20,11 @@ LSIP的适用领域
 
 　　所以，大规模集成网页 适合原本公开的数据，比如法律条款、政策文件、政府公开数据……等等。这些数据本来就允许用户复制，而LSIP能让用户复制得更快。
 
+　　LSIP的数据不仅向用户开放，而且向互联网开放。包括搜索引擎在内的其他用户均可以复制或利用数据，这使得数据的复用率增加。　数据复用率增加将帮助数据获得进一步利用：统计、识别、机器学习，LSIP由此产生衍生信息。这个过程常被称为‘[数据挖掘(Data Mining)](https://www.zhihu.com/topic/19553534/hot)’。所以，LSIP可以成为人工智能(AI)的基础工程。
+
 　　但是公开数据中有一些并不适合LSIP。那些随时随地会变化的数据，比如互联网的域名注册信息。这样的数据需要随时随地更新，用户即使下载了某一时刻的数据全集，下一秒的变化仍然需要到服务器查询，起不到节省网络交互次数的作用。　那些没有明确数量的数据，也不适合LSIP，因为网页的制作永远无法完成。
 
-　　综上所述，大规模集成网页(LSIP)适用于公开类数据，有限集数据。
+　　综上所述，大规模集成网页(LSIP)适用于公开类数据、有限集数据。
 
 
 LSIP 缘起
@@ -51,3 +53,7 @@ in English
 ----------
 　　The 'integrated web page' is a new web form based on the World Wide Web (WWW):
 Integrate all hyperlinks under the same topic on a single web page, to implement the full set of URLs for that topic.
+
+<https://diamonwoo.github.io/LSIP/>
+
+	v0.0.5	适用领域增加‘数据挖掘’
