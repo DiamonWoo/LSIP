@@ -75,5 +75,5 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 ```
 	大规模集成网页 © 大萌 202207-202212
 	https://diamonwoo.github.io/LSIP
-	CC 3.0 BY-NC-ND 	可转载-需署名-非演绎
+	CC 3.0 BY-NC-ND 　可转载-需署名-非演绎
 ```
