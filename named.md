@@ -7,7 +7,8 @@ LSIP 缘起与命名
 
 　　‘集成网页’是基于万维网(WWW)的一种新网页形态：在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集。
 
-<div align="right"><a href=".." title="大规模集成网页">LSIP</a> / 缘起与命名</div>
+<div align="right"><a href="." title="大规模集成网页">LSIP</a> / 缘起与命名</div>
+
 
 LSIP 缘起
 ---------
@@ -49,12 +50,6 @@ LSIP 命名
 * VLSIC = Very Large Scale Integrated Circuit ，超大规模集成电路，晶体管10k~100k个。
 *  LSIP = Large Scale Integrated Page ，大规模集成网页
 * HyperLink，超链接，超文本标记语言(HTML)中的连接，也简称为 连接(Link)。
-
-
-in English
-----------
-　　The 'integrated web page' is a new web form based on the World Wide Web (WWW):
-Integrate all hyperlinks under the same topic on a single web page, to implement the full set of URLs for that topic.
 
 
 ```
