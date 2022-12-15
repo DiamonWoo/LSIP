@@ -7,7 +7,7 @@ LSIP 缘起与命名
 
 　　‘集成网页’是基于万维网(WWW)的一种新网页形态：在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集。
 
-<div align="right">[LSIP](..) / 缘起与命名</div>
+<div align="right"><a href=".." title="大规模集成网页">LSIP</a> / 缘起与命名</div>
 
 LSIP 缘起
 ---------
@@ -59,6 +59,6 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 
 ```
 	大规模集成网页 © 大萌 202207-202212
-	https://diamonwoo.github.io/LSIP
+	https://diamonwoo.github.io/LSIP/named
 	CC 3.0 BY-NC-ND 	可转载-需署名-非演绎
 ```
