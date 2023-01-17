@@ -5,11 +5,16 @@
 　　大规模集成电路，LSIC，指的是，集成超过1000个晶体管的电路。  
 　　大规模集成网页，LSIP，指的是，集成超过1000个超链接的网页。  
 
-　　‘集成网页’是基于万维网(WWW)的一种新网页形态：在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集。　按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
+　　LSIC和LSIP这两个概念非常相似，一个是硬件，一个是软件。单个晶体管的结构很简单，一个二极管只有阴、阳两个极，三极管只有 B、C、E 三个极；单个超链接也只有 超文本、链接网址 2个核心语法段，再加上Title和Target等标签。单个晶体管的功能很单纯：实现电流增益；单个超链接的功能也很单纯：实现文件跳转。　集成电路是在一块小型晶片上，把很大数量的微晶体管集成在一起，形成某种功能的电气回路。
 
-　　这种数据全集在过去，一般以数据库形式保存于服务器，然后由服务器脚本向用户输出查询子集。实现该查询过程的网页被称为‘动态网页’。　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给用户。集成网页就是一种包含某方面数据全集的‘静态网页’，用户的查询通过浏览器在本地实现，不需要再次经过服务器，节省了网络交互次数。
+　　‘集成网页’是在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集，是基于万维网(WWW)的一种新网页形态。　按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
-　　大规模集成网页(LSIP)利用更快更强的网络，把数据库网页化，是 [web 3.0](https://cn.bing.com/search?q=web+3.0) 的一种可能形式。本概念由大萌于2022年7月通过[在Github建立项目](https://diamonwoo.github.io/LSIP/)首次发表，该项目将以LSIP为基础，讨论‘集成网页’涉及的技术与应用。
++	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly)
++	LSIP示例：[中国千县政府网](https://LaoSheng.top/qianxian)
+
+　　过去，这种数据全集一般以数据库形式保存于服务器，被称作[DeepWeb](https://www.oalib.com/search?type=0&oldType=0&kw=deepweb&searchField=All)；然后由服务器脚本向用户输出查询子集，实现该查询过程的网页被称为‘动态网页’。　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给用户。集成网页就是一种包含某方面数据全集的‘静态网页’，用户的查询通过浏览器在本地实现，不需要再次经过服务器，节省了网络交互次数。
+
+　　大规模集成网页(LSIP)利用更快更强的网络，把数据库网页化，把DeepWeb的数据上升到前端，是 [web 3.0](https://cn.bing.com/search?q=web+3.0) 的一种可能形式。本概念由大萌于2022年7月通过[在Github建立项目](https://diamonwoo.github.io/LSIP/)首次发表，该项目将以LSIP为基础，讨论‘集成网页’涉及的技术与应用。
 
 
 LSIP 缘起与命名
@@ -20,7 +25,7 @@ named
 
 　　[LSIP 缘起与命名](named)
 
-　　新概念诞生了！《中国千县政府网》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
+　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
 
 
 LSIP的适用领域
@@ -38,37 +43,9 @@ field
 　　综上所述，大规模集成网页(LSIP)适用于公开类数据、有限集数据。
 
 
-大萌的LSIP项目
--------------
-
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　超3000个超链接　中国3212个县级以上政府网址，以下简称‘千县网’。
-+	[法治政府有关部门](https://Laosheng.top/fuwu/fazhi)　超2000个超链接  
-	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	🗺[国别代码速查表](https://Laosheng.top/ydyl/nations)　超1200个超链接  
-	　249个国家或地区的概况、政府网址、中英文名称、双方使馆、ISO代码……
-+	　中国法律简目 (规划中，暂停)
-
-中等规模集成网页：
-
-+	☁[中国新闻云媒体](https://laosheng.top/fly)　超900个超链接
-+	🌞[一带一路云媒体](Laosheng.Top/ydyl/)　约500个超链接
-+	💱[中国金融交易所](https://Laosheng.top/fuwu/jiaoyisuo)　预计300个超链接，建设中……
-
-周边：
-
-+	LSIP的应用示范文档　——《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》
-+	LSIP在[老生常谈](https://laosheng.top/Lab/LSIP)网站的转载页
-
-　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/author/helpme.txt)。
-
-　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the whole world more easily, which is not something that Twitter and Facebook can do.
-
-
 LSIP的发展方向
 --------------
 future
-
-　　LSIC和LSIP这两个概念非常相似，一个是硬件，一个是软件。单个晶体管的结构很简单，一个二极管只有阴、阳两个极，一个三极管只有 B、C、E 三个极；这和超链接的结构很相似。一个超链接也只有 超文本、链接网址 2个核心语法段，再加上Title和Target等标签。单个晶体管的功能也很单纯：实现电流增益；单个超链接的功能也很单纯：实现文件跳转。
 
 　　LSIC之所以能流行，是因为它为广泛需求提供了低成本解决方案，这一点同样是LSIP的发展方向。‘普遍需求’这个词，定义好下，但列表难出，大家先去做吧。我们现在来分析成本。
 
@@ -103,6 +80,33 @@ density
 　　未完待续……
 
 
+大萌的LSIP项目
+-------------
+
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　超3000个超链接　中国3212个县级以上政府网址，以下简称‘千县网’。
++	[法治政府有关部门](https://Laosheng.top/fuwu/fazhi)　超2000个超链接  
+	　中国333个地级市的立法/普法/执法/司法/监察部门网址
++	🗺[国别代码速查表](https://Laosheng.top/ydyl/nations)　超1200个超链接  
+	　249个国家或地区的概况、政府网址、中英文名称、双方使馆、ISO代码……
++	　中国法律简目 (规划中，暂停)
+
+中等规模集成网页：
+
++	☁[中国新闻云媒体](https://laosheng.top/fly)　超900个超链接
++	🌞[一带一路云媒体](Laosheng.Top/ydyl/)　约500个超链接
++	💱[中国金融交易所](https://Laosheng.top/fuwu/jiaoyisuo)　预计300个超链接，建设中……
+
+周边：
+
++	LSIP的应用示范文档　——《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》
++	LSIP在[老生常谈](https://laosheng.top/Lab/LSIP)网站的转载页
+
+　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/author/helpme.txt)。
+
+　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the whole world more easily, which is not something that Twitter and Facebook can do.
+
+　　未完待续……
+
 　　欢迎读者[留言讨论](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，github用户可提交issue。
 
 
@@ -121,3 +125,5 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	https://diamonwoo.github.io/LSIP
 	CC 3.0 BY-NC-ND 　可转载-需署名-非演绎
 ```
+
+[本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
