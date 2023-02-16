@@ -98,7 +98,8 @@ Integrated web Page by Diamon
 	　中国333个地级市的立法/普法/执法/司法/监察部门网址
 +	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　超1400个超链接  
 	　249个国家或地区的概况、政府网址、中英文名称、双方使馆、ISO代码……
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　超3000个超链接 　中国3212个县级以上政府网址，简称‘千县网’。
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　超3000个超链接  
+	　中国3212个县级以上政府网址，简称‘千县网’。
 
 超大规模集成网页（VLSIP）：
 
