@@ -98,8 +98,8 @@ Design Software
 
 　　LSIP在设计完成进入维护环节后，主要进行 网址检测 工作，以保证链接的有效性。
 	
-*	<b>网址检测</b>  
-	（应有现成的软件，欢迎提供）
+*	<b>网址检测</b> URL detection  
+	
 
 
 LSIP 缘起与命名
@@ -119,23 +119,24 @@ LSIP Projects by Diamon
 
 大规模集成网页（LSIP）：
 
-+	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　v0.7.7　	LC=1431，LD=2.168  
-	　249个国家或地区的概况、政府网址、中英文名称、双方使馆、ISO代码……
-+	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)　v0.4.0　	LC=1608，LD=4.155  
++	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　v0.7.7　	LC=1431，LD=2.168　	
+	　249个国家或地区的概况、政府网址、ISO代码、双方使馆……
++	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)　v0.4.0　	LC=1608，LD=4.155　	
 	　实业类央企旗下400多家上市公司的：股票代码、行情页面、公司官网
-+	〖中国新闻云媒体 plus版〗　	设计LC > 2500  
++	〖中国新闻云媒体 plus版〗　	设计LC > 2500　	　	
 	　筹备中，中国地级以上市的报纸、电视、官微网址。
-+	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)　v0.9.4　	LC=3045，LD=5.618  
++	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)　v0.9.4　	LC=3045，LD=5.618　	
 	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　v0.6.6　	LC=3283，LD=5.88  
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　v0.6.6　	LC=3283，LD=5.88　	
 	　中国3212个县级以上政府网址，简称‘千县网’。
 
 超大规模集成网页（VLSIP）：
 
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)　	设计LC>12000，预计LD>10  
-	　收录中，中国3212个县级以上政府网址、公安微博、两院网址。
-+	〖中国政法区划全集〗　	设计LC>13000，预计LD>10  
-	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）。
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)　	设计LC>12000，预计LD>10　		
+	　收录中，中国3212个县级以上政府网址、公安微博、两院网址
+
++	〖中国政法区划全集〗　	设计LC>13000，预计LD>10　			
+	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）
 
 衍生项目：
 
