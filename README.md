@@ -61,6 +61,57 @@ Technical Indicators
 ```
 
 
+大萌的LSIP项目 📊
+----------------
+LSIP Projects by Diamon
+
+大规模集成网页（LSIP）：
+
++	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　简称‘国别表’　	
+	　249个国家或地区的概况、政府网址、ISO代码、双方使馆……
++	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)　简称‘央企股’　	
+	　实业类央企旗下400多家上市公司的：股票代码、行情页面、公司官网
++	〖中国新闻云媒体 plus版〗　	设计LC > 2500　	　	
+	　筹备中，中国地级以上市的报纸、电视、官微网址。
++	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)　简称‘法门集’　	
+	　中国333个地级市的立法/普法/执法/司法/监察部门网址
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　简称‘千县网’　	
+	　中国3212个县级以上政府网址，按身份证号排列。
+
+这些LSIP项目的技术指标如下：
+
+|项目简称与版本  |链接计数(LC)|mht大小|链接密度(LD)|
+|--------------|------------|-------|-----------|
+| 国别表 v0.7.7|　1431	|	662 KB| 2.168	|
+| 央企股 v0.4.0|　1608	|	387 KB| 4.155	|
+| 法门集 v0.9.4|　3045	|	542 KB| 5.618	|
+| 千县网 v0.6.6|　3283	|	558 KB| 5.88	|
+
+超大规模集成网页（VLSIP）：
+
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)　	设计LC>12000，预计LD>10　		
+	　收录中，中国3212个县级以上政府网址、公安微博、两院网址
++	〖中国政法区划全集〗　	设计LC>13000，预计LD>10　			
+	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）
+
+衍生项目：
+
++	🏆《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)》—— LSIP的应用示范文档
++	LSIP License 大规模集成网页许可证 —— 促进LSIP发展，防止LSIP滥用
++	《用大规模集成网页对抗互联网垃圾农场》	—— 论文，垃圾农场污染万维网，LSIP提纯万维网。
+
+
+LSIP 缘起与命名
+--------------
+Named
+
+　　‘集成网页’的实践，最早在2019年大萌制作《老生常谈云媒体》网页时出现，大萌在新冠疫情初期搜索各地官方媒体网站时遇到困难，便萌发出，要把所有官媒网站收录在一个网页的想法 ……
+
+　　[LSIP 缘起与命名](named)
+
+　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
+
+
 LSIP的产业成本
 -------------
 Cost
@@ -71,7 +122,7 @@ Cost
 
 　　LSIP的初级原料是网址数据(超链接)，通常也容易获得；而网页的生产(复制)环节几乎是零成本，所以，LSIP成本的重点在于设计环节。　集成电路的设计有相当的难度，需要计算机辅助，集成网页也将朝这个方向发展，集成规模越大，设计难度越大。
 
-　　但是LSIP还有一个硬件没有的成本——更新。传统硬件在出售之后，除了故障维修基本上不再有产品更新，我们的手机内存用满了能找厂家换个大内存吗？不能。 但是集成网页可以升级到更大、更新。　LSIP的本质是一个集文档、软件、互联网项目于一体的综合性产品，文档有审校任务，软件有升级任务，互联网有更新任务，不同的领域对产品后续维护的说法不一样。读者当然会期待在LSIP上能够看到最新最全的内容，这是LSIP的价值所在。
+　　但是LSIP还有一个硬件没有的成本——更新。传统硬件在出售之后，除了故障维修基本上不再有产品更新，我们的手机内存用满了能找厂家换个大内存吗？不能。 但是集成网页可以升级到更大、更新。　LSIP的本质是一个集文档、软件、互联网项目于一体的综合性产品，文档有审校任务，软件有升级任务，互联网有更新任务，不同的领域对产品后续维护的说法不一样。读者当然会期待在LSIP上能够看到最新最全的内容，这是LSIP的更新目标。
 
 　　综上所述，二者的初级原料成本都很低，集成电路的成本在设计、制造，集成网页的成本在设计、更新。如果您想加入LSIP创作者队伍，您需要准备设计和更新的能力。
 
@@ -101,58 +152,11 @@ Design Software
 *	<b>网址检测</b> URL detection  
 	
 
-
-LSIP 缘起与命名
---------------
-Named
-
-　　‘集成网页’的实践，最早在2019年大萌制作《老生常谈云媒体》网页时出现，大萌在新冠疫情初期搜索各地官方媒体网站时遇到困难，便萌发出，要把所有官媒网站收录在一个网页的想法 ……
-
-　　[LSIP 缘起与命名](named)
-
-　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
-
-
-大萌的LSIP项目 📊
-----------------
-LSIP Projects by Diamon
-
-大规模集成网页（LSIP）：
-
-+	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　v0.7.7　	LC=1431，LD=2.168　	
-	　249个国家或地区的概况、政府网址、ISO代码、双方使馆……
-+	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)　v0.4.0　	LC=1608，LD=4.155　	
-	　实业类央企旗下400多家上市公司的：股票代码、行情页面、公司官网
-+	〖中国新闻云媒体 plus版〗　	设计LC > 2500　	　	
-	　筹备中，中国地级以上市的报纸、电视、官微网址。
-+	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)　v0.9.4　	LC=3045，LD=5.618　	
-	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　v0.6.6　	LC=3283，LD=5.88　	
-	　中国3212个县级以上政府网址，简称‘千县网’。
-
-超大规模集成网页（VLSIP）：
-
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)　	设计LC>12000，预计LD>10　		
-	　收录中，中国3212个县级以上政府网址、公安微博、两院网址
-
-+	〖中国政法区划全集〗　	设计LC>13000，预计LD>10　			
-	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）
-
-衍生项目：
-
-+	《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》　——LSIP的应用示范文档
-+	LSIP License 大规模集成网页许可证 —— 保护LSIP版权，促进LSIP发展，防止LSIP滥用
-+	《用大规模集成网页对抗互联网垃圾农场》	—— 论文  
-	垃圾农场污染万维网，LSIP提纯万维网。
-
-
 　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/author/helpme.txt)。
 
 　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the world as whole more easily, which is not something that Twitter and Facebook can do.
 
-
 　　未完待续……
-
 
 　　欢迎读者[留言讨论](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，github用户可提交issue。
 
@@ -171,7 +175,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	v0.4.0	202303　统计自建项目指标
+	v0.4.1　202303	为指标引入表格样式
 ```
 
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
