@@ -1,6 +1,6 @@
 大规模集成网页 (LSIP)
 =====================
-大萌　		2022-2023
+大萌　	2022-2023
 
 　　大规模集成电路，LSIC，指的是，集成超过1000个晶体管的电路。  
 　　大规模集成网页，LSIP，指的是，集成超过1000个超链接的网页。  
@@ -42,25 +42,25 @@ Technical Indicators
 
 + [链接计数（LC）](LC)，Link Count
 
-　　页面单一主题下，链接的统计个数。　不是简单的页面总链接数，而是要排除主题之外链接后的统计数，比如页眉页脚的导航链接、页面内部的跳转链接、嵌入的广告链接，都要排除。
+　　页面单一主题下，链接的统计个数。　不是简单的页面链接总数，而是主题之内的链接计数；要排除主题之外的链接，比如页眉页脚的导航链接、页面内部的跳转链接、嵌入的广告链接，都要排除。
 
-+ [文件大小(FS)](file-size)，File Size
++ [存档大小](mht-size)，mht size of web archive file
 
-　　将网页用浏览器保存到用户本地后，全部文件的大小之和，以KB计数。 如果能够保存为[单一网页文件（.mht）](mht)，则取值该 mht文件的大小。
+　　网页存档为.mht文件的大小，以KB计数。　网页用浏览器保存为[单一文件网页（.mht）](mhtml)，并且在用户本地打开后能呈现该网页主题的全部链接。也就是说，网页被用户复制到本地后不损失‘链接计数（LC）’。mht是‘MHTML’的简写，也称‘Web档案/网页归档’。
 
 + [链接密度（LD）](LD)，Link Density
 
-　　‘链接计数’与网页的单一文件大小KB的比值，称为‘链接密度’。计算公式：
+　　‘链接计数’与网页存档大小的比值，称为‘链接密度’。计算公式：
 ```
-		LD = LC / FileSize (KB)
+		LD = LC / mht-size (KB)
 ```
-　　如果一个网页的链接计数超过1000，并且链接密度大于1，则可称之为‘大规模集成网页’，公式如下：
+　　如果一个网页的链接计数超过1000，并且链接密度大于1，则可称之为‘大规模集成网页’，条件如下：
 ```
 		LSIP:
 			LC ≥ 1000
 		&	LD > 1
 ```
-　　以一个收录1000个链接的网页为例，要把网页文件大小控制在1000KB（1MB）之内，才能称为LSIP。换个角度计算，也就是说，LSIP每个链接所占用的大小不能超过1KB。
+　　以一个收录1000个链接的网页为例，要把存档大小控制在1000KB（1MB）之内，才能称为LSIP。换个角度计算，也就是说，LSIP每个链接所占用的存档大小不能超过1KB。
 
 
 大萌的LSIP项目 📊
@@ -69,15 +69,15 @@ LSIP Projects by Diamon
 
 大规模集成网页（LSIP）：
 
-+	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　简称：国别表，　	
++	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)，简称：国别表。　
 	　249个国家或地区的概况、政府网址、ISO代码、双方使馆……
-+	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)　简称：央企股，　	
++	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)，简称：央企股。　
 	　400多家央企旗下上市公司的：股票代码、行情页面、公司官网
-+	〖中国新闻云媒体 plus版〗　	设计LC > 2500　	
++	〖中国新闻云媒体 plus版〗，设计LC > 2500。　
 	　筹备中，中国地级以上市的报纸、电视、官微网址。
-+	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)　简称：法门集，　	
++	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)，简称：法门集。　	
 	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　简称：千县网，　	
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)，简称：千县网。　
 	　中国3212个县级以上政府网址，按身份证号排列。
 
 这些LSIP项目的技术指标如下：
@@ -92,9 +92,9 @@ LSIP Projects by Diamon
 
 超大规模集成网页（VLSIP）：
 
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)　设计LC>12000，预计LD>10　		
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC>12000，预计LD>10。　
 	　收录中，中国3212个县级以上政府网址、公安微博、两院网址
-+	〖中国政法区划全集〗　设计LC>13000，预计LD>10　	
++	〖中国政法区划全集〗，设计LC>13000，预计LD>10。　
 	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）
 
 衍生项目：
@@ -178,7 +178,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	v0.4.1　202303	为指标引入表格样式
+	v0.4.2　202303	提出存档大小
 ```
 
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
