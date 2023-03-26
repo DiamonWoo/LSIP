@@ -1,12 +1,13 @@
-网页文件大小 
+存档大小 mht-size
 ==================
-web page file size
+mht size of web archive file
 
+Archive as .mht file Size？
 
 Intense writing ...
 
 
-<div align="right"><a href="." title="大规模集成网页">LSIP</a> / 链接密度</div>
+<div align="right"><a href="." title="大规模集成网页">LSIP</a> / 存档大小</div>
 
 
 
@@ -20,3 +21,9 @@ Intense writing ...
 
 　　粗略的估算，A的大小在1.5MB，B的大小在0.5MB，千县网用官网三分之一的体积实现了更多的信息量。为什么A网页的信息密度这么低？查看网页源代码可以得知，该网页是用微软Excel输出，而微软历史上的网页制作工具，从最早的FrontPage开始，向来都有添加样式过多的问题，使得网页比较臃肿。其他办公软件输出网页，也有类似问题，程度不一。该现象在政府网页中比较普遍，值得改进。
 　　
+
+存档mht的软件
+------------
+
+　　由于各浏览器保存mht文件大小会出现差异，这里需要一个恒定的标准。正好微软在2022年结束了经典浏览器IE的更新，这个最终版本的IE正好可以作为标准。而且，IE也是最早实现mht保存功能的浏览器之一，以至于有人会错以为mht是微软的私有格式。而实际上，mht文件是很早的开放标准，
+
