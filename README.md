@@ -82,13 +82,13 @@ LSIP Projects by Diamon
 
 这些LSIP项目的技术指标如下：
 
-|项目简称与版本|链接计数(LC)|存档大小|链接密度(LD)|
+|项目简称 与版本|链接计数(LC)|存档大小|链接密度(LD)|
 |-------------|------------|-------|-----------|
-| 国别表 v0.7.7|	1431	|	662 KB|	2.168|
-| 央企股 v0.4.0|	1608	|	387 KB|	4.155|
-| 法门集 v0.9.4|	3045	|	542 KB|	5.618|
-| 千县网 v0.6.6|	3283	|	558 KB|	5.88 |
-
+|国别表 v0.7.7|	1431	|	662 KB|	2.168|
+|央企股 v0.4.0|	1608	|	387 KB|	4.155|
+|法门集 v0.9.4|	3045	|	542 KB|	5.618|
+|千县网 v0.6.6|	3283	|	558 KB|	5.88 |
+<br>
 
 超大规模集成网页（VLSIP）：
 
@@ -155,7 +155,7 @@ Design Software
 *	<b>网址检测</b> URL detection  
 	
 
-　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/author/helpme.txt)。
+　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/c/author)。
 
 　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the world as whole more easily, which is not something that Twitter and Facebook can do.
 
@@ -178,7 +178,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	v0.4.2　202303	提出存档大小
+	v0.4.3　202303	修复站内连接错误
 ```
 
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
