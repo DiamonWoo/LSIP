@@ -89,6 +89,7 @@ LSIP Projects by Diamon
 |法门集 v0.9.4|	3045	|	542 KB|	5.618|
 |千县网 v0.6.6|	3283	|	558 KB|	5.88 |
 
+<br>
 <p>超大规模集成网页（VLSIP）：</p>
 
 +	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC>12000，预计LD>10。　
@@ -111,7 +112,7 @@ Named
 
 　　[LSIP 缘起与命名](named)
 
-　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
+　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/fuwu/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
 
 
 LSIP的产业成本
