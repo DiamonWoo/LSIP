@@ -154,13 +154,13 @@ Design Software
 *	<b>网址检测</b> URL detection  
 
 
-　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/c/author)。
+　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！
 
 　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the world as whole more easily, which is not something that Twitter and Facebook can do.
 
 　　未完待续……
 
-　　欢迎读者[留言讨论](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，github用户可提交issue。
+　　欢迎读者[留言讨论](https://laosheng.top/c/author)，github用户可提交issue。
 
 
 in English
