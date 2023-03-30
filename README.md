@@ -9,7 +9,7 @@
 
 　　‘集成网页’是在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集，是基于万维网(WWW)的一种新网页形态。　按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
-+	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly){:target="_blank"} ☁
++	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly){:target="_blank"} ☁ 
 +	LSIP示例：[央企股票全家福](https://LaoSheng.top/fuwu/yangqi){:target="_blank"} 🧧
 
 　　过去，这种数据全集一般以数据库形式保存于服务器，被称作[DeepWeb](https://www.oalib.com/search?type=0&oldType=0&kw=deepweb&searchField=All)；然后由服务器脚本向用户输出查询子集，实现该查询过程的网页被称为‘动态网页’。　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给用户。集成网页就是一种包含某方面数据全集的‘静态网页’，用户的查询通过浏览器在本地实现，不需要再次经过服务器，节省了网络交互次数。
@@ -178,7 +178,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	v0.4.4　202303	修饰页面
+	v0.4.4　202303	微调副标题
 ```
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
 
