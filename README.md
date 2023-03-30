@@ -9,8 +9,8 @@
 
 　　‘集成网页’是在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集，是基于万维网(WWW)的一种新网页形态。　按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
-+	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly){:target="_blank"}
-+	LSIP示例：[央企股票全家福](https://LaoSheng.top/fuwu/yangqi){:target="_blank"}
++	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly){:target="_blank"} ☁
++	LSIP示例：[央企股票全家福](https://LaoSheng.top/fuwu/yangqi){:target="_blank"} 🧧
 
 　　过去，这种数据全集一般以数据库形式保存于服务器，被称作[DeepWeb](https://www.oalib.com/search?type=0&oldType=0&kw=deepweb&searchField=All)；然后由服务器脚本向用户输出查询子集，实现该查询过程的网页被称为‘动态网页’。　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给用户。集成网页就是一种包含某方面数据全集的‘静态网页’，用户的查询通过浏览器在本地实现，不需要再次经过服务器，节省了网络交互次数。
 
@@ -59,7 +59,7 @@ Technical Indicators
 	LSIP:		LC ≥ 1000
 		&	LD > 1
 ```
-　　以一个收录1000个链接的网页为例，要把存档大小控制在1000KB（1MB）之内，才能称为LSIP。换个角度计算，也就是说，LSIP每个链接所占用的存档大小不能超过1KB。　在物理学中，水(H2O)的密度为1，如果一个物体密度小与1，那么它会浮在水面上；如果一个网页的链接密度(LD)小于1，那么这个网页就‘太水了’。🙄
+　　以一个收录1000个链接的网页为例，要把存档大小控制在1000KB（1MB）之内，才能称为LSIP。换个角度计算，也就是说，LSIP每个链接所占用的存档大小不能超过1KB。　在物理学中，水(H2O)的密度为1，如果一个物体密度小与1，那么它会浮在水面上；如果一个网页的链接密度(LD)小于1，那么这个集成网页就‘太水了’。🙄
 
 
 大萌的LSIP项目 📊
@@ -68,16 +68,16 @@ LSIP Projects by Diamon
 
 大规模集成网页（LSIP）：
 
-+	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)，简称：国别表。　
-	　249个国家或地区的概况、政府网址、ISO代码、双方使馆……
-+	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)，简称：央企股。　
-	　400多家央企旗下上市公司的：股票代码、行情页面、公司官网
-+	〖中国新闻云媒体 plus版〗，设计LC > 2500。　
-	　筹备中，中国地级以上市的报纸、电视、官微网址。
-+	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)，简称：法门集。　	
++	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)，简称：国别表。
+	　249个国家或地区概况、政府网址、ISO代码、双方使馆……
++	🧧[央企股票全家福](https://Laosheng.top/fuwu/yangqi)，简称：央企股。
+	　400多家央企上市公司的：股票代码、行情页面、公司官网
++	〖中国新闻云媒体 plus版〗，设计LC > 2500。
+	　筹备中，中国地级以上市的报纸、电视、官微网址
++	🏢[法治政府部门集](https://Laosheng.top/fuwu/fazhi)，简称：法门集。
 	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)，简称：千县网。　
-	　中国3212个县级以上政府网址，按身份证号排列。
++	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)，简称：千县网。
+	　中国3212个县级以上政府网址，按身份证号排序
 
 这些LSIP项目的技术指标如下：
 
@@ -91,9 +91,9 @@ LSIP Projects by Diamon
 <br>
 超大规模集成网页（VLSIP）：
 
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC>12000，预计LD>10。　
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC>12000，预计LD>10。
 	　收录中，中国3212个县级以上政府网址、公安微博、两院网址
-+	〖中国政法区划全集〗，设计LC>13000，预计LD>10。　
++	〖中国政法区划全集〗，设计LC>13000，预计LD>10。
 	　筹备中，中国所有设法院区划的政府网址及公检法网址（含非行政区划）
 
 衍生项目：
@@ -133,7 +133,7 @@ LSIP的设计软件 💾
 ----------------
 Design Software
 
-　　LSIP设计可分三个阶段：第一阶段：**信息**；经过提取、纯化后进入第二阶段：**数据**；经过关联、组织形成数据库；最后通过数据库输出网页代码到第三阶段：**网页**。
+　　LSIP设计可分三个阶段：第一阶段：**信息**；经过提取、纯化后进入第二阶段：**数据**；经过关联、组织形成数据库；最后通过数据库输出HTML代码到第三阶段：**网页**。
 
 　　LSIP概念还是刚刚提出，目前IT界没有专门的设计软件，但是三个设计阶段都有现成的软件可用。通过软件功能的组合，以及一些低代码的编程工作，可以使得LSIP的设计半自动化，大大提高设计效率。　大萌根据自身的设计经验，列举如下：
 
@@ -165,11 +165,12 @@ Design Software
 
 in English
 ----------
+✴️✳️❇️🕎⚛️❄️💮🏵️
 
 　　The 'integrated web page' is a new web form based on the World Wide Web (WWW):
 Integrate all hyperlinks under the same topic on a single web page, to implement the full set of URLs for that topic.
 
-　　When the number of hyperlinks exceeds one thousand, it is called a 'Large Scale Integrated  web Page' (LSIP), named by [DiamonWoo](https://diamonwoo.github.io/LSIP/) on github.com , 202207.
+　　When the number of hyperlinks exceeds one thousand, it is called a 'Large Scale Integrated  web Page' (LSIP), named by DiamonWoo on [github.com](https://diamonwoo.github.io/LSIP/) , 202207.
 
 　　If you have a strong will and a pure heart, join in!
 
@@ -177,9 +178,8 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	v0.4.3　202303	修复站内连接错误
+	v0.4.4　202303	修饰页面
 ```
-
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
 
 LSIP在[老生常谈](https://laosheng.top/yan/LSIP)网站的转载页
