@@ -149,7 +149,7 @@ Design Software
 	* 高效能H5与CSS
 	* js主从表查询/js表格排序/js站内搜索
 
-　　大萌希望LSIP能够既适宜人类阅读，又方便机器阅读，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。
+　　大萌希望LSIP能够既适宜人类阅读，又方便机器阅读，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。<img src="https://upload.wikimedia.org/wikipedia/zh/a/a4/Sw-horz-w3c.png" align="right" />
 
 　　LSIP在设计完成进入维护环节后，主要进行 网址检测 工作，以保证链接的有效性。
 
