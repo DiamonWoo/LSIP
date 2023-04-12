@@ -149,6 +149,8 @@ Design Software
 	* 高效能H5与CSS
 	* js主从表查询/js表格排序/js站内搜索
 
+　　大萌希望LSIP能够既适宜人类阅读，又方便机器阅读，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。
+
 　　LSIP在设计完成进入维护环节后，主要进行 网址检测 工作，以保证链接的有效性。
 
 *	<b>网址检测</b> URL detection  
@@ -178,7 +180,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	Version	0.4.6 	202304
+	Version	0.4.7 	202304
 ```
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
 
