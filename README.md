@@ -7,12 +7,12 @@
 
 　　LSIC和LSIP这两个概念非常相似，一个是硬件，一个是软件。单个晶体管的结构很简单，只需要两三个端子(极)；单个超链接也只需要两三个属性，如：目标网址(href)、目标窗口(target)、提示文字(title) 。单个晶体管的功能很单纯：实现电流增益；单个超链接的功能也很单纯：实现文件跳转。
 
-　　集成电路是一种微型电子器件，把很大数量的晶体管和电子元件，制作在一小块晶片上，成为具有某种电路功能的微型结构。（参见《辞海》第七版）  
+　　集成电路是一种微型电子器件，把很大数量的晶体管和电子元件，制作在一小块晶片上，成为具有某种电路功能的微型结构。（《辞海》第七版）  
 　　集成网页是一种数据化网页，把很大数量的超链接和相关数据，制作在一个网页上，成为具有某种主题网址全集的单一页面。
 
 　　集成网页通过数据库输出网页，使网页向着“文件小、数据多、易存取、可复用”方向发展，是基于万维网(WWW)的一种网页形态。 按照集成规模，当链接数量超过一百，称之为‘中型集成网页(MSIP)’；当链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
-+	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly) ☁ 
++	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly) ☁
 +	LSIP示例：[央企股票全家福](https://LaoSheng.top/fuwu/yangqi) 🧧
 
 　　过去，这种数据全集一般以数据库形式保存于服务器，由服务器脚本向用户输出查询子集，实现该查询过程的网页被称为‘动态网页’。这种把数据隐藏在服务器之后的网页被称作[DeepWeb](https://www.oalib.com/search?type=0&oldType=0&kw=deepweb&searchField=All)；　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给浏览器，把数据查询、筛选、排序等工作交给用户自己完成。集成网页就是一种包含某方面数据全集的‘静态网页’，用户对数据的查询通过浏览器在本地实现，不需要再次经过服务器，既节省了网络交互次数、时间，又提高了对数据检索、利用的自由度。
@@ -93,17 +93,20 @@ LSIP Projects by Diamon
 　　还有一些页面尚在设计与制作过程中，部分页面将达到超大规模集成网页（VLSIP）：
 
 +	〖中国新闻云媒体 plus版〗，设计LC > 2500。
-	　筹备中，中国地级以上市的报纸、电视、官微网址
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC>12000，预计LD>10。
+	　筹备中，在前文MISP‘云媒体’的基础上，增加媒体官网、微博，达到LSIP规模。
++	👨‍🎓 [高等院校三千所](https://Laosheng.top/fuwu/yuanxiao)，设计LC≥3057，LSIP规模。
+	收录中国军校、普通高校、成人高校、港澳台高校等官方网址。
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC≥12800，VLSIP规模。
 	　收录中，中国3212个县级以上政府网址、公安微博、两院网址，是‘法门集’的配套页面。
-+	〖中国政法区划全集〗，设计LC>13000，预计LD>10。
++	〖中国政法区划全集〗，设计LC≥13200，VLSIP规模。。
 	　筹备中，以法门集和公检法两个页面为基础，增补非行政区的政府机构网址及公检法网址。
 
-衍生项目：
+　　相关文档项目：
 
++	《从国际网站的语言支持看中国在世界的影响力》—— 集成网页的宏观分析示范。
 +	🏆《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)》—— LSIP的应用示范文档
 +	LSIP License 大规模集成网页许可证 —— 促进LSIP发展，防止LSIP滥用
-+	《用大规模集成网页对抗互联网垃圾农场》	—— 论文，垃圾农场污染万维网，LSIP提纯万维网。
++	《用大规模集成网页对抗互联网垃圾农场》	—— 垃圾农场污染万维网，LSIP提纯万维网。
 
 
 LSIP 缘起与命名
@@ -152,7 +155,7 @@ Design Software
 	* 高效能H5与CSS
 	* js主从表查询/js表格排序/js站内搜索
 
-　　大萌希望LSIP能够既适宜人类阅读，又方便机器阅读，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。<img align="right" src="https://www.w3.org/Icons/SW/sw-horz-w3c.png" onerror="this.src='semantic-web-to-w3c'" />
+　　大萌希望LSIP能够既适宜人类阅读，又方便机器阅读，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。<img align="right" src="https://www.w3.org/Icons/SW/sw-horz-w3c.png" onerror="this.src='semantic-web-to-w3c.png'" />
 
 　　LSIP在设计完成进入维护环节后，主要进行 网址检测 工作，以保证链接的有效性。
 
@@ -183,7 +186,7 @@ Integrate all hyperlinks under the same topic on a single web page, to implement
 	CC 3.0 BY-NC-ND　可转载-需署名-非演绎
 	大规模集成网页(LSIP)© 2022-2023 大萌
 	https://diamonwoo.github.io/LSIP
-	Version	0.4.8 	202305
+	Version	0.4.9 	202305
 ```
 [本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
 
