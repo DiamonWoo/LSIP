@@ -92,20 +92,20 @@ LSIP Projects by Diamon
 <br>
 　　还有一些页面尚在设计与制作过程中，部分页面将达到超大规模集成网页（VLSIP）：
 
-+	〖中国新闻云媒体 plus版〗，设计LC > 2500。
++	〖中国新闻云媒体 plus版〗，设计LC > 2500。  
 	　筹备中，在前文MISP‘云媒体’的基础上，增加媒体官网、微博，达到LSIP规模。
-+	👨‍🎓 [高等院校三千所](https://Laosheng.top/fuwu/yuanxiao)，设计LC≥3057，LSIP规模。
-	收录中国军校、普通高校、成人高校、港澳台高校等官方网址。
-+	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC≥12800，VLSIP规模。
++	👨‍🎓 [高等院校三千所](https://Laosheng.top/fuwu/yuanxiao)，设计LC≥3057，LSIP规模。  
+	　收录中国军校、普通高校、成人高校、港澳台高校等官方网址。
++	🛂[中国千县公检法](https://Laosheng.top/fuwu/qianxian-gjf)，设计LC≥12800，VLSIP规模。  
 	　收录中，中国3212个县级以上政府网址、公安微博、两院网址，是‘法门集’的配套页面。
-+	〖中国政法区划全集〗，设计LC≥13200，VLSIP规模。。
++	〖中国政法区划全集〗，设计LC≥13200，VLSIP规模。  
 	　筹备中，以法门集和公检法两个页面为基础，增补非行政区的政府机构网址及公检法网址。
 
-　　相关文档项目：
+　　相关文档：
 
 +	《从国际网站的语言支持看中国在世界的影响力》—— 集成网页的宏观分析示范。
 +	🏆《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)》—— LSIP的应用示范文档
-+	LSIP License 大规模集成网页许可证 —— 促进LSIP发展，防止LSIP滥用
++	License of LSIP 大规模集成网页许可证（LoL） —— 促进LSIP发展，避免LSIP滥用
 +	《用大规模集成网页对抗互联网垃圾农场》	—— 垃圾农场污染万维网，LSIP提纯万维网。
 
 
