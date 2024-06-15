@@ -2,7 +2,7 @@
 ====================
 大萌　2022-2024	<base target="_blank">
 
-　　集成网页是**集**某个主题方向网址之**大成**的网页。集成网页通常采用超文本与数据库技术，把主题内容和很大数量的超链接，建立结构化目录，集中在一个静态网页上，是一种数据化网页，也是web3.0众多竞争形式之一。　按照集成规模，当链接数量超过一百，称之为‘中型集成网页(MSIP)’；当链接数量超过一千，称之为‘**大规模集成网页**’(LSIP，Large Scale Integrated web Page)；当链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
+　　集成网页是**集**某个主题方向网址之**大成**的网页。集成网页利用超文本或数据库技术，把主题内容和大量的链接融合，建立结构化目录，集中在一个静态网页上，是一种数据化网页，也是web3.0众多竞争形式之一。　按照集成规模，当链接数量超过一百，称之为‘中型集成网页(MSIP)’；当链接数量超过一千，称之为‘**大规模集成网页**’(LSIP，Large Scale Integrated web Page)；当链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
 
 +	MSIP示例：[国际组织四大类](https://LaoSheng.top/ydyl/untied) 🌐
 +	LSIP示例：[高等院校三千所](https://LaoSheng.top/fuwu/yuanxiao) 👨‍🎓
@@ -165,7 +165,7 @@ Design Software
 	* 高效能H5与CSS
 	* js主从表查询/js表格排序/js站内搜索
 
-　　大萌希望LSIP能够既适宜人类阅读，又方便机器检索，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。<img align="right" src="https://www.w3.org/Icons/SW/sw-horz-w3c.png" onerror="this.src='semantic-web-to-w3c.png'" />
+　　大萌希望LSIP能够既适宜人类阅读，又方便机器检索，以符合W3C提出的‘[语义网](https://www.chinaw3c.org/search/语义网/)’([Semantic Web](https://www.w3.org/2001/sw/))愿景。这对设计水平是个挑战。<img align="right" src="https://www.w3.org/Icons/SW/sw-horz-w3c.png" onerror="this.src='sw-web-to-w3c-bw.png'" />
 
 　　LSIP在设计完成进入维护环节后，主要进行 网址检测 工作，以保证链接的有效性。
 
