@@ -49,12 +49,13 @@ LSIP 命名
 
 相关词汇
 --------
+
+* Hyper-Link，超链接，超文本标记语言(HTML)中的连接，俗称‘网址’，也简称为‘链接’或‘连接’(Link)。
 *    IC = Integrated Circuit ，集成电路，也称‘芯片’(Chip)。
 *  MSIC = Medium Scale Integration Circuit ，中型集成电路，晶体管100~1k个。
 *  LSIC = Large Scale Integrated Circuit ，大规模集成电路，晶体管1k~10k个。
 * VLSIC = Very Large Scale Integrated Circuit ，超大规模集成电路，晶体管10k~100k个。
 *  LSIP = Large Scale Integrated Page ，大规模集成网页
-* Hyper-Link，超链接，超文本标记语言(HTML)中的连接，也简称为‘链接’或‘连接’(Link)。
 
 
 LSIP定义变化
