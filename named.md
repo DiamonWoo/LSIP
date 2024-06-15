@@ -15,6 +15,17 @@ LSIP 缘起与命名
 <div align="right"><a href="." title="大规模集成网页">LSIP</a> / 缘起与命名</div>
 
 
+相关词汇
+--------
+
+* Hyper-Link，超链接，超文本标记语言(HTML)中的连接，俗称‘网址’，也简称为‘链接’或‘连接’(Link)。
+*    IC = Integrated Circuit ，集成电路，也称‘芯片’(Chip)。
+*  MSIC = Medium Scale Integration Circuit ，中型集成电路，晶体管100~1k个。
+*  LSIC = Large Scale Integrated Circuit ，大规模集成电路，晶体管1k~10k个。
+* VLSIC = Very Large Scale Integrated Circuit ，超大规模集成电路，晶体管10k~100k个。
+*  LSIP = Large Scale Integrated Page ，大规模集成网页
+
+
 LSIP 缘起
 ---------
 
@@ -46,16 +57,6 @@ LSIP 命名
 
 　　新概念诞生了！《中国千县地名网》（曾名：政府网、千县图）可以称作：‘大规模集成网页’！英文：Large Scale Integrated Page，缩写为：LSIP。
 
-
-相关词汇
---------
-
-* Hyper-Link，超链接，超文本标记语言(HTML)中的连接，俗称‘网址’，也简称为‘链接’或‘连接’(Link)。
-*    IC = Integrated Circuit ，集成电路，也称‘芯片’(Chip)。
-*  MSIC = Medium Scale Integration Circuit ，中型集成电路，晶体管100~1k个。
-*  LSIC = Large Scale Integrated Circuit ，大规模集成电路，晶体管1k~10k个。
-* VLSIC = Very Large Scale Integrated Circuit ，超大规模集成电路，晶体管10k~100k个。
-*  LSIP = Large Scale Integrated Page ，大规模集成网页
 
 
 LSIP定义变化
